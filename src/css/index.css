@@ -263,6 +263,7 @@ body {
   grid-template-columns: repeat(3, 3fr);
   grid-gap: 40px;
   margin-top: 64px;
+  justify-items: center;
 }
 .main .main_section-2 .main_section_div-card .card {
   background: #ffffff;
